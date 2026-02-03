@@ -1,8 +1,8 @@
-💰 Budget Tracker App
+# 💰 Budget Tracker App
 
 - A simple and intuitive Budget Tracker App that helps users manage income and expenses, track spending habits, and stay in control of their finances.
 
-🚀 Features
+## 🚀 Features
 
 - ➕ Add income and expense transactions
 
@@ -39,6 +39,8 @@
 
 - Transaction history
 
+## 
+
 🎯 Use Cases
 
 - Personal finance tracking
@@ -46,6 +48,8 @@
 - Student budget management
 
 - Learning project for JavaScript fundamentals
+
+##
 
 🔮 Future Improvements
 
